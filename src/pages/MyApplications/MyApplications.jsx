@@ -12,7 +12,7 @@ const MyApplications = () => {
         setJobs(data);
       });
   }, []);
-  console.log(jobs);
+  // console.log(jobs);
 
   return (
     <div>
